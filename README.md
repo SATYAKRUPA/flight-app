@@ -3,7 +3,7 @@
 A full-stack flight booking web application built with Next.js 14, Supabase, and Zustand.
 
 ## 🚀 Live Demo
-[Deploy link here after Vercel deploy]
+https://flight-app-pi.vercel.app
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js 14 (App Router), TypeScript, Tailwind CSS
